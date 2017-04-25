@@ -33,20 +33,17 @@
 
 ## 参与开发或负责的项目
 [**快孕宝**](http://sj.qq.com/myapp/detail.htm?apkName=com.kyb.www)  
-[**项目链接**](http://sj.qq.com/myapp/detail.htm?apkName=com.kyb.www)  
 一个私立医院为患者设计的APP。  
 我是该项目的主要负责人。项目期间内，独自完成了UI界面的搭建与优化，APP整体架构的设计与开发，并负责了包括网络请求、数据存储、性能优化在内的除日历模块外的所有APP需求的实现。  
 采用RongCloud中的iMKit组件实现了用户之间的聊天功能。   
 
 [**JinAdvisor**](http://sj.qq.com/myapp/detail.htm?apkName=com.jinmacazine.www)  
-[**项目链接**](http://sj.qq.com/myapp/detail.htm?apkName=com.jinmacazine.www)  
 天津的一款涉外杂志JinMagazine为读者设计的APP。  
 在职期间，我是该项目的主要负责人，负责APP的后期维护，包括新需求的实现、代码结构的优化、BUG的排查与修改以及新版本的更迭。  
 采用XUtils框架中的HttpuUtils优化了网络请求工具，降低了请求时间。  
 采用BitmapUtils优化图片显示功能，降低了内存消耗。
 
 [**e管家**](http://sj.qq.com/myapp/detail.htm?apkName=com.fan.wuye)  
-[**项目链接**](http://sj.qq.com/myapp/detail.htm?apkName=com.fan.wuye)  
 一款智慧社区app。  
 我主要负责该项目的主页UI界面的搭建，聊天页面的UI界面搭建和聊天模块的需求的实现。  
 bug的测试等后期维护工作。
