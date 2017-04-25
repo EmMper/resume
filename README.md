@@ -39,8 +39,8 @@
 
 [**JinAdvisor**](http://sj.qq.com/myapp/detail.htm?apkName=com.jinmacazine.www)  
 天津的一款涉外杂志JinMagazine为读者设计的APP。  
-在职期间，我是该项目的主要负责人，负责APP的后期维护，包括新需求的实现、代码结构的优化、BUG的排查与修改以及新版本的更迭。  
-采用XUtils框架中的HttpuUtils优化了网络请求工具，降低了请求时间。  
+在职期间，我是该项目的主要负责人，负责APP的后期维护，包括新需求的实现、代码结构的优化、BUG的排查与修改以及新版本的更迭。      
+采用XUtils框架中的HttpuUtils优化了网络请求工具，降低了请求时间。    
 采用BitmapUtils优化图片显示功能，降低了内存消耗。
 
 [**e管家**](http://sj.qq.com/myapp/detail.htm?apkName=com.fan.wuye)  
