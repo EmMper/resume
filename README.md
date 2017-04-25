@@ -47,6 +47,6 @@
 
 [**e管家**](http://sj.qq.com/myapp/detail.htm?apkName=com.fan.wuye)  
 [**项目链接**](http://sj.qq.com/myapp/detail.htm?apkName=com.fan.wuye)  
-一款智慧社区app。
-我主要负责该项目的主页UI界面的搭建，聊天页面的UI界面搭建和聊天模块的需求的实现。
+一款智慧社区app。  
+我主要负责该项目的主页UI界面的搭建，聊天页面的UI界面搭建和聊天模块的需求的实现。  
 bug的测试等后期维护工作。
