@@ -32,20 +32,14 @@
 * 2016年至今，在天津联创宏图网络科技有限公司担从事安卓开发
 
 ## 参与开发或负责的项目
-[**快孕宝**](http://sj.qq.com/myapp/detail.htm?apkName=com.kyb.www)
-
-[**项目链接**](http://sj.qq.com/myapp/detail.htm?apkName=com.kyb.www)
-
+[**快孕宝**](http://sj.qq.com/myapp/detail.htm?apkName=com.kyb.www)  
+[**项目链接**](http://sj.qq.com/myapp/detail.htm?apkName=com.kyb.www)  
 一个私立医院为患者设计的APP。我主要负责安卓项目的开发，并独立完成其中除日历模块之外的所有功能。
 
-[**JinAdvisor**](http://sj.qq.com/myapp/detail.htm?apkName=com.jinmacazine.www)
-
-[**项目链接**](http://sj.qq.com/myapp/detail.htm?apkName=com.jinmacazine.www)
-
+[**JinAdvisor**](http://sj.qq.com/myapp/detail.htm?apkName=com.jinmacazine.www)  
+[**项目链接**](http://sj.qq.com/myapp/detail.htm?apkName=com.jinmacazine.www)  
 天津的一款涉外杂志JinMagazine为读者设计的APP。我主要负责该项目的后期需求实现、bug修正、代码维护和版本更迭。
 
-[**e管家**](http://sj.qq.com/myapp/detail.htm?apkName=com.fan.wuye)
-
-[**项目链接**](http://sj.qq.com/myapp/detail.htm?apkName=com.fan.wuye)
-
+[**e管家**](http://sj.qq.com/myapp/detail.htm?apkName=com.fan.wuye)  
+[**项目链接**](http://sj.qq.com/myapp/detail.htm?apkName=com.fan.wuye)  
 一款智慧社区软件。我主要负责该项目的代码维护和BUG修正。
