@@ -25,6 +25,7 @@
 * 熟练掌握安卓开发及各版本SDK特点及API，能够独立开发一款中小型app
 * 熟悉Android四大组件，熟悉http和socket的传输机制，熟悉Android Framework框架结构，掌握OOAD设计思想
 * 熟悉现在的部分热门安卓开源框架
+* 熟练掌握github、svn以及开发工具的使用
 * 熟练掌握JAVA语言
 * 具有一定的设计基础，能够熟练使用PS、AI等软件设计UI
 
