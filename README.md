@@ -17,13 +17,13 @@
 
 熟练掌握Android SDK及API，熟悉http和socket的传输机制，熟悉Android Framework框架结构，掌握OOAD设计思想。  
 
-曾自学UI和平面设计，具有一定的设计基础，能减少沟通成本，提高工作效率。  
+曾自学UI和平面设计，具有一定的设计基础，能减少沟通成本，提高工作效率；熟悉UI常用布局与控件，熟悉自定义控件开发。  
 
 善于学习、思考和沟通，愿意参与团队协作，为团队贡献自己的价值。  
 
 ## 技术水平
 * 熟练掌握安卓开发及各版本SDK特点及API，能够独立开发一款中小型app
-* 熟悉http和socket的传输机制，熟悉Android Framework框架结构，掌握OOAD设计思想
+* 熟悉Android四大组件，熟悉http和socket的传输机制，熟悉Android Framework框架结构，掌握OOAD设计思想
 * 熟悉现在的部分热门安卓开源框架
 * 熟练掌握JAVA语言
 * 具有一定的设计基础，能够熟练使用PS、AI等软件设计UI
